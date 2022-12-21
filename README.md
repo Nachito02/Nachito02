@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nachito02
 - 👀 I’m interested in programming with Javascript
 - 🌱 I’m currently learning React.js, Node.js 
-- 
 - 📫 How to reach me: Arguellojuan08@gmail.com
 
 <!---
