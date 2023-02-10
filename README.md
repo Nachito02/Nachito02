@@ -10,6 +10,9 @@ Nachito02/Nachito02 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
+## About me
+
+I am Juan Arguello, a passionate programmer and a lover of technology, I love learning something new every day regarding the world of programming, welcome to my space where you will find my projects, who knows if any of them could help you?
 
 ## Technologies and skills
 
