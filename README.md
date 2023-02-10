@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Nachito02
 - 👀 I’m interested in programming with Javascript
-- 🌱 I’m currently learning React.js, Node.js 
+- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: Arguellojuan08@gmail.com
 
 <!---
 Nachito02/Nachito02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://user-images.githubusercontent.com/84349906/214178492-1fe3978e-735b-4f83-953b-4602670d538f.png)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
