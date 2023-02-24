@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Juan Arguello
 - 👀 I’m interested in programming with Javascript
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript and python
 
 <!---
 Nachito02/Nachito02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
